@@ -2,3 +2,4 @@
 Language: Python  
 File: q1.py  
 Usage: go to the file path, input 'python q1.py help' to get help menu then follow the info to do.  
+Youtube showcase: https://youtu.be/d1RR4MOjnGY
